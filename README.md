@@ -1,19 +1,25 @@
-![Assalamualaikum ](https://scontent.fcgp31-1.fna.fbcdn.net/v/t39.30808-6/358025575_122526500879349_6621033399480310623_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEyBqaBNiH4-k5XUr3_1SBdNrR8APkLY242tHwA-QtjbjWsj9avxHI7Zk0Nr9uIw3NgIH2f8r5XGhr_b2G_cmxe&_nc_ohc=ozHt64j5T64AX9PJq51&_nc_ht=scontent.fcgp31-1.fna&oh=00_AfBG3yV0fYG8bIavpncOAauQg57gPrtCuzjCg949V6TrfQ&oe=64A67C11)
+<h1 align="center">Assalamualaikum ,,I am Mohammed Mahadi Hossain</h1>
+<h3 align="center">From Bangladesh</h3>
 
- ### Hi there 👋, Md Mahadi Hossain
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m13hmahadi250&label=Profile%20views&color=0e75b6&style=flat" alt="m13hmahadi250" /> </p>
 
-Learning web development,,
+- 🌱 I’m currently learning **Programming**
 
-Skills: Still Learning 
+- 👯 I’m looking to collaborate on **GitHub**
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning CSS,JAVA,Machine Learning 
-- 👯 I’m looking to collaborate on GitHub 
+- 📫 How to reach me(Gmail) **m13hmahadi@gmail.com**
 
+- 📄 Know about my experiences [Still Learning](Still Learning)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m13hmahadi250)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/m13hmahadi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/m13hmahadi250/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/m13hmahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m13hmahadi" height="30" width="40" /></a>
+<a href="https://fb.com/m13hmahadi250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m13hmahadi250" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/m13hmahadi250)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=m13hmahadi250)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m13hmahadi250&show_icons=true&locale=en" alt="m13hmahadi250" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m13hmahadi250&" alt="m13hmahadi250" /></p>
