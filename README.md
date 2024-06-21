@@ -1,22 +1,60 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Assalamualaikum, I'm Mohammed Mahadi Hossain</h1>
-<h3 align="center">From Bangladesh</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m13hmahadi250&label=Profile%20views&color=0e75b6&style=flat" alt="m13hmahadi250" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahadi+Hossain!;" />
+</h1>
+
+<h3 align="center"> From Bangladesh </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/m13hmahadi250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/m13hmahadi250/" height="30" width="40" /></a>
+
+ </div>
+ 
+<div align="center"> 
+  <a href="https://fb.com/https://www.facebook.com/m13hmahadi250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/m13hmahadi250/" height="30" width="40" /></a>
 <a href="https://discord.gg/mahadim13h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahadim13h" height="30" width="40" /></a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp" /><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m13hmahadi250&show_icons=true&locale=en&layout=compact" alt="m13hmahadi250" /></p>
+<br/>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m13hmahadi250&show_icons=true&locale=en" alt="m13hmahadi250" /></p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m13hmahadi250&" alt="m13hmahadi250" /></p>
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+
+</div>
+
+<br/>
