@@ -48,7 +48,8 @@
 
 <hr/>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=m13hmahadi250&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m13hmahadi&show_icons=true&theme=onedark)
 <br/><br/>
 
 <hr/>
