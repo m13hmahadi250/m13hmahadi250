@@ -15,7 +15,6 @@
  
 
 
- ![snake gif](https://github.com/m13hmahadi250/m13hmahadi250/blob/output/github-contribution-grid-snake.svg)
 
 
  </div>
@@ -40,9 +39,11 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+ 
+  ![snake gif](https://github.com/m13hmahadi250/m13hmahadi250/blob/output/github-contribution-grid-snake-dark.svg)
 
-  <br/><br/><br/>
+
+ <br/><br/>
 </div>
 
 <hr/>
