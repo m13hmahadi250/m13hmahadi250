@@ -8,29 +8,19 @@
   <img alt="m13hmahadi250's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<h3 align="center"> From Bangladesh </h3>
+<h3 align="center">FROM BANGLADESH</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working as **Web Developer**
- 
-
-
-
-
- </div>
- 
 <div align="center"> 
-  <a href="https://fb.com/https://www.facebook.com/m13hmahadi250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/m13hmahadi250/" height="30" width="40" /></a>
-<a href="https://discord.gg/mahadim13h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahadim13h" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/m13hmahadi250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/m13hmahadi250/" height="30" width="40" /></a>
+<a href="https://discord.gg/shoto_todorokii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahadim13h" height="30" width="40" /></a>
 </p>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> LANGUAGE | FRAMEWORK TOOLS</h2>
 <br/>
 
 <div align="center">
