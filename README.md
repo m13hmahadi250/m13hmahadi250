@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working as **Web Developer**
  
 
 
@@ -39,6 +39,10 @@
 
 <br/>
 <hr/>
+
+<p align="center">
+  <img src="banner.svg" alt="Mohammed Mahadi Hossain" />
+</p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
