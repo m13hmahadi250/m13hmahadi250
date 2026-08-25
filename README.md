@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalamualaikum!+👋;+I'm+Mahadi+Hossain!;" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=MOHAMMED+MAHADI+HOSSAIN;Software+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
