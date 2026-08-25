@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=MOHAMMED+MAHADI+HOSSAIN;Computer+Engineer+%7C+Web+Developer" alt="Typing SVG" />
+  <img src="banner.svg" alt="Mohammed Mahadi Hossain" />
 </p>
 
 <picture>
@@ -41,7 +41,7 @@
 <hr/>
 
 <p align="center">
-  <img src="banner.svg" alt="Mohammed Mahadi Hossain" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=MOHAMMED+MAHADI+HOSSAIN;Computer+Engineer+%7C+Web+Developer" alt="Typing SVG" />
 </p>
 
 <div align="center">
