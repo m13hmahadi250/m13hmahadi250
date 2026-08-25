@@ -1,12 +1,12 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalamualaikum!+👋;+I'm+Mahadi+Hossain!;" />
+</h1>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="m13hmahadi250's GitHub profile" src="dark_mode.svg" />
 </picture>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalamualaikum!+👋;+I'm+Mahadi+Hossain!;" />
-</h1>
 
 <h3 align="center"> From Bangladesh </h3>
 
